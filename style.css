@@ -33,8 +33,9 @@ p {
 }
 
 .bgimg {
-    
+    background-image: url("./img/pattern.png");
     background-color: lightblue;
+    height: 110px;
 }
 
 #marginimg {
@@ -49,6 +50,7 @@ footer {
     color: white;
     font-size: 13px ;
     text-align: center;
-    
-    
+ 
 }
+
+
