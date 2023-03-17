@@ -23,7 +23,7 @@ h1 {
 table {
     margin-top: 30px;
     height: 200px;
-    width: 1500px;
+    width: 100%;
     text-align: left;
     margin-bottom: 30px;
   }
@@ -54,3 +54,7 @@ footer {
 }
 
 
+body {
+    width: 70%;
+    margin: auto;
+}
