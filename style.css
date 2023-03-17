@@ -1,0 +1,35 @@
+.textbg {
+    background-color: yellow;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    margin-bottom: 0%;
+}
+
+.lgrey {
+    color:rgb(134, 134, 134)
+}
+
+.bluebgtable {
+    background-color: rgb(65, 62, 253);
+    color:azure;
+}
+
+.lbluebgtable {
+    background-color: lightblue;
+}
+
+table {
+    width: 80%;
+    text-align: left;
+  }
+
+p {
+    width: 80%;
+}
+
+
+  main {
+    margin : auto;
+  }
