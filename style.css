@@ -21,15 +21,34 @@ h1 {
 }
 
 table {
-    width: 80%;
+    margin-top: 30px;
+    height: 200px;
+    width: 1500px;
     text-align: left;
+    margin-bottom: 30px;
   }
 
 p {
     width: 80%;
 }
 
+.bgimg {
+    
+    background-color: lightblue;
+}
 
-  main {
-    margin : auto;
-  }
+#marginimg {
+    margin-top: 0%;
+    font-size: 13px;
+}
+
+footer {
+    
+    height: 40px;
+    background-color: darkblue;
+    color: white;
+    font-size: 13px ;
+    text-align: center;
+    
+    
+}
